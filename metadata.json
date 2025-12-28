@@ -1,0 +1,7 @@
+{
+  "name": "CrossFit WOD Strategist",
+  "description": "An AI-powered CrossFit strategy generator that analyzes WODs (via text or image) and provides professional coaching advice, pacing, and movement breakdowns using the Gemini API.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
